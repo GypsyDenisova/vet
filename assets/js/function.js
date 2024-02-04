@@ -229,6 +229,6 @@ function Slider(num, arrayContent, displayMeaning, arrayElips, classActive){
     }
     
 
-window.onresize = function(){
-    location.reload();
-}
+//window.onresize = function(){
+//    location.reload();
+//}
