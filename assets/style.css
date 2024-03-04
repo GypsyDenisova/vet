@@ -2475,3 +2475,12 @@ p.mistake_text{
 width: 100%;
 overflow-y: hidden;
 }
+
+
+.article{
+    height: 520px;
+}
+
+.content_servicesPage{
+    padding-bottom: 100px;
+}

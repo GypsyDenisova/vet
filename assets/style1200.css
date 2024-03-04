@@ -576,3 +576,7 @@ p.mistake_header{
   height: 700px;
 overflow-y: hidden;
 }
+
+.content_servicesPage{
+    padding-bottom: 0px;
+}
