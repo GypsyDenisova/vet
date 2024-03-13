@@ -2047,6 +2047,7 @@ p.office_active {
 .servicesPage_content {
     display: flex;
     align-items: flex-start;
+     margin-bottom: 80px;
 }
 
 .servicesPage_img {
